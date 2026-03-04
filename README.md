@@ -13,21 +13,28 @@
     <td width="60%">
 
 ### 🤖 Languages and Frameworks
-
-
+<br>
 <img
     align="left"
     alt="Python"
     title="Python"
-    width="30px"
+    width="40px"
     style="padding-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"
 />
 <img
     align="left"
+    alt="Django"
+    title="Django"
+    width="40px"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg"
+/>
+<img
+    align="left"
     alt="Pandas"
     title="Pandas"
-    width="30px"
+    width="40px"
     style="padding-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg"
 />
@@ -35,7 +42,7 @@
     align="left"
     alt="NumPy"
     title="NumPy"
-    width="30px"
+    width="40px"
     style="padding-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg"
 />
@@ -43,7 +50,7 @@
     align="left"
     alt="TensorFlow"
     title="TensorFlow"
-    width="30px"
+    width="40px"
     style="padding-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original.svg"
 />
@@ -51,7 +58,7 @@
     align="left"
     alt="Jupyter"
     title="Jupyter Notebook"
-    width="30px"
+    width="40px"
     style="padding-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original.svg"
 />
@@ -59,7 +66,7 @@
     align="left"
     alt="Scikit-Learn"
     title="Scikit-Learn"
-    width="30px"
+    width="40px"
     style="padding-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg"
 />
@@ -67,7 +74,7 @@
     align="left" 
     alt="HTML"
     title="HTML" 
-    width="30px" 
+    width="40px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
 />
@@ -75,7 +82,7 @@
     align="left" 
     alt="CSS"
     title="CSS" 
-    width="30px" 
+    width="40px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
 />
@@ -83,14 +90,19 @@
     align="left" 
     alt="JavaScript" 
     title="JavaScript"
-    width="30px" 
+    width="40px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
 /></br>
 
-<br>
+<br></br>
 
+<h3 align="center">📊 Stats</h3>
+<div align="center">
+ 
 [![GitHub Streak](https://streak-stats.demolab.com?user=GlaucoCiprianoMoreira&theme=tokyonight&border_radius=30)](https://git.io/streak-stats)
+
+</div>
 
   </td>
     <td>
